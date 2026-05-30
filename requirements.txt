@@ -4,3 +4,8 @@ langchain-huggingface
 faiss-cpu
 sentence-transformers
 huggingface_hub
+fastapi
+uvicorn
+numpy
+groq
+python-dotenv
