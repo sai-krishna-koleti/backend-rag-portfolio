@@ -1,0 +1,36 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment
+venv/
+env/
+.env/
+
+# ======================
+# Environment variables
+# ======================
+.env
+
+# ======================
+# FAISS / ML generated files
+# ======================
+faiss_index/
+*.faiss
+*.index
+index.faiss
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db

@@ -1,0 +1,116 @@
+{
+  "name": "Sai Krishna Koleti",
+  "email": "saikrishna.koleti12@gmail.com",
+  "phone": "+91 8374757544",
+
+  "about": "Aspiring AI Engineer with hands-on experience in Python, LangChain, RAG, Vector Databases, and LLM applications. Currently working as a Software Engineer at Tata Consultancy Services and building Generative AI applications.",
+
+  "skills": [
+    "Python",
+    "LangChain",
+    "RAG",
+    "FAISS",
+    "Vector Stores",
+    "LLMs",
+    "Streamlit",
+    "PostgreSQL",
+    "Git",
+    "GitHub",
+    "VS Code",
+    "PyCharm"
+  ],
+
+  "contact":[
+    "+91 8374757544",
+    "saikrishna.koleti12@gmail.com"
+
+  ]
+,
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Software Engineer",
+      "location": "Hyderabad, Telangana",
+      "duration": "Feb 2025 - Present",
+      "description": [
+        "Worked on application monitoring using AppDynamics",
+        "Supported development of Generative AI applications",
+        "Built RAG applications using LangChain",
+        "Implemented vector search using FAISS"
+      ]
+    },
+    {
+      "company": "Coding Club India",
+      "role": "Web Developer Intern",
+      "duration": "June 2023 - Nov 2023",
+      "description": [
+        "Developed front-end components using HTML, CSS and JavaScript",
+        "Improved user experience through responsive web development"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Conversational PDF Q&A Chatbot using RAG and LangChain",
+      "description": "Developed a conversational AI chatbot that allows users to chat with PDF documents using RAG, LangChain and Vector Databases with chat history support."
+    },
+    {
+      "title": "AI SQL Assistant using LangChain Agents and SQL Toolkit",
+      "description": "Created an AI-powered SQL assistant using LangChain agents and SQL toolkit to interact with databases using natural language queries."
+    },
+    {
+      "title": "Search Engine using LangChain Tools and Agents",
+      "description": "Implemented a search engine application using LangChain tools and agents for intelligent information retrieval and automated query handling."
+    },
+    {
+      "title": "RAG-based Document Question Answering using Llama3 and Groq API",
+      "description": "Built a Retrieval-Augmented Generation application using Llama3 and Groq API to answer questions from uploaded documents."
+    },
+    {
+      "title": "Text Summarization with LangChain",
+      "description": "Built a text summarization application using LangChain and LLMs."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Jyothishmathi Institute of Technological Sciences",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "duration": "2020 - 2024",
+      "percentage": "70%"
+    },
+    {
+      "institution": "Telangana State Model School & Jr College",
+      "qualification": "Intermediate",
+      "duration": "2018 - 2020",
+      "percentage": "87%"
+    },
+    {
+      "institution": "Montessori High School",
+      "qualification": "SSC",
+      "duration": "2017 - 2018",
+      "percentage": "85%"
+    }
+  ],
+
+  "certifications": [
+    "Python (Basic) - HackerRank",
+    "SQL (Basic) - HackerRank",
+    "Java (Basic) - HackerRank",
+    "Python Language - CodeTantra",
+    "Complete SQL and Databases Bootcamp - Udemy",
+    "Introduction to JavaScript - Sololearn"
+  ],
+
+  "achievements": [
+    "Won First Prize in Coding Competition at Jyothishmathi Institute of Technological Sciences"
+  ],
+
+  "links": {
+    "github": "https://github.com/sai-krishna-koleti",
+    "linkedin": "https://www.linkedin.com/in/sai-krishna-113265258/",
+    "hackerrank": "https://www.hackerrank.com/kittukittu_02468",
+    "portfolio": "https://portfolio-sai-krishna.vercel.app/"
+  }
+}
