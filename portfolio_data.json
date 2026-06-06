@@ -52,6 +52,10 @@
 
   "projects": [
     {
+      "title": "Groq Chatbot",
+      "description": "A simple chatbot using Groq, users can adjust the temperaure and tokens,also select different models from the provided list"
+    },
+    {
       "title": "Conversational PDF Q&A Chatbot using RAG and LangChain",
       "description": "Developed a conversational AI chatbot that allows users to chat with PDF documents using RAG, LangChain and Vector Databases with chat history support."
     },
